@@ -35,9 +35,7 @@ The analysis is based on two datasets containing Netflix content details and cus
 ## 📂 Dataset Used
 
 ### 🔹 1. Netflix Content Dataset  
-- <a href="https://github.com/Monika-anand/Netflix-Content-Customer-Analytics-Dashboard-/blob/main/netflix_customer_ratings_20000.xlsx
-">netflix_customer_ratings</a>
-- <a href="https://github.com/Monika-anand/Netflix-Content-Customer-Analytics-Dashboard-/blob/main/netflix_dataset_20000.xlsx">netflix Dataset</a>
+📁- <a href="https://github.com/Monika-anand/Netflix-Content-Customer-Analytics-Dashboard-/blob/main/netflix_dataset_20000.xlsx">netflix Dataset</a>
 
 
 Contains:
@@ -54,7 +52,8 @@ Contains:
 ---
 
 ### 🔹 2. Customer Ratings Dataset  
-📁 `netflix_customer_ratings_20000.xlsx`
+📁- <a href="https://github.com/Monika-anand/Netflix-Content-Customer-Analytics-Dashboard-/blob/main/netflix_customer_ratings_20000.xlsx
+">netflix_customer_ratings</a>
 
 Contains:
 - Customer ID  
