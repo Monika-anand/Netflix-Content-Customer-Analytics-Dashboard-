@@ -78,6 +78,7 @@ Contains:
 ---
 
 ## 📈 Dashboard Pages
+-<a href="https://github.com/Monika-anand/Netflix-Content-Customer-Analytics-Dashboard-/blob/main/Netflix%20Project.pbix">View Dashboard-Power BI</a>
 
 ### 📄 1. Overview
 - Content distribution (Movies vs TV Shows)  
@@ -135,15 +136,6 @@ Contains:
 ## 📸 Dashboard Preview
 
 ![Dashboard Preview](Images/dashboard_overview.png)
-
----
-
-## 🚀 How to Use
-
-1. Download the `.pbix` file  
-2. Open using **Power BI Desktop**  
-3. Navigate between pages  
-4. Use slicers to explore insights  
 
 ---
 
