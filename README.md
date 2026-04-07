@@ -85,7 +85,8 @@ Contains:
 - Ratings breakdown  
 - Top genres  
 - Year-wise content growth  
-- Country-wise content map  
+- Country-wise content map
+![Overview](https://github.com/Monika-anand/Netflix-Content-Customer-Analytics-Dashboard-/blob/main/Screenshot%202026-04-07%20170507.png)
 
 ---
 
@@ -93,23 +94,29 @@ Contains:
 - Age vs Rating (Scatter Plot)  
 - Gender-wise viewing patterns  
 - Watch time distribution  
-- Customer behavior insights  
+- Customer behavior insights
+  
+![Customer Analysis](https://github.com/Monika-anand/Netflix-Content-Customer-Analytics-Dashboard-/blob/main/Screenshot%202026-04-07%20170527.png)
 
 ---
-
-### 💳 3. Subscription Analysis
-- Subscription type share  
-- Watch time by subscription plan  
-- Rating by subscription  
-- Top shows based on engagement  
-
----
-
-### 🌍 4. Country / Region Analysis
+### 🌍 3. Country / Region Analysis
 - Customers by country (Map)  
 - Watch time by region  
 - Content distribution by country  
-- Subscription trends across countries  
+- Subscription trends across countries
+  
+- ![Country / Region Analysis](https://github.com/Monika-anand/Netflix-Content-Customer-Analytics-Dashboard-/blob/main/Screenshot%202026-04-07%20170548.png)
+
+  ---
+
+  
+### 💳 4. Subscription Analysis
+- Subscription type share  
+- Watch time by subscription plan  
+- Rating by subscription  
+- Top shows based on engagement
+   
+![Subscription Analysis](https://github.com/Monika-anand/Netflix-Content-Customer-Analytics-Dashboard-/blob/main/Screenshot%202026-04-07%20170605.png)
 
 ---
 
